@@ -1,0 +1,51 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Balance",
+      "request": "launch",
+      "mainClass": "Balance",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "pb1$pb1",
+      "request": "launch",
+      "mainClass": "pb1$pb1",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "pb1",
+      "request": "launch",
+      "mainClass": "pb1",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Java/Lab6_22-2-25",
+      "program": "d:/Java/Lab6_22-2-25/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
