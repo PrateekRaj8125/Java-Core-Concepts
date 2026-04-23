@@ -16,14 +16,13 @@ Each folder represents a progressive level of learning, making it ideal for:
 ```text
     Java-Core-Concepts/
     │
-    ├── Level1_Basics/
-    ├── Level2_ControlStatements/
-    ├── Level3_CommandLineAndArrays/
-    ├── Level4_OOP_Polymorphism/
-    ├── Level5_Inheritance_Polymorphism/
-    ├── Level6_Abstract_Classes_Interfaces/
-    ├── Level7_ExceptionHandling/
-    ├── Level8_FileHandling/
+    ├── Level 1: Java-Basics/
+    ├── Level 2: Command-Line-Programs/
+    ├── Level 3: Polymorphism/
+    ├── Level 4: Inheritance/
+    ├── Level 5: Abstract-And-Interfaces/
+    ├── Level 6: Exception-Handling/
+    ├── Level 7: File-Handling/
 ```
 
 ---
