@@ -32,13 +32,13 @@ Each folder represents a progressive level of learning, making it ideal for:
 
 | Level | Folder Name | Concepts Covered | Description |
 | --- | --- | --- | --- |
-| 1. | [Java Basics]() | Input/Output, Arithmetic | Fundamental Java programs to build basic syntax and logic |
-| 2. | [Command Line Programs]() | CLI args, Arrays, Sorting | Intermediate problem-solving using arrays and command-line input |
-| 3. | [Polymorphism]() | Classes, Objects, Overloading | Core OOP concepts and modular programming |
-| 4. | [Inheritance]() | Inheritance, Overriding | Advanced OOP with real-world class relationships |
-| 5. | [Abstraction-And-Interfaces]() | Abstraction, Interfaces | Abstract classes and interface-based design |
-| 6. | [Exception-Handling]() | try-catch, Custom Exceptions | Error handling and robust program execution |
-| 7. | [File-Handling]() | File I/O, Streams | Reading, writing, and managing files in Java |
+| 1. | [Java Basics](https://github.com/PrateekRaj8125/Java-Core-Concepts/tree/main/code/Java-Basics) | Input/Output, Arithmetic | Fundamental Java programs to build basic syntax and logic |
+| 2. | [Command Line Programs](https://github.com/PrateekRaj8125/Java-Core-Concepts/tree/main/code/Command-Line-Programs) | CLI args, Arrays, Sorting | Intermediate problem-solving using arrays and command-line input |
+| 3. | [Polymorphism](https://github.com/PrateekRaj8125/Java-Core-Concepts/tree/main/code/Polymorphism) | Classes, Objects, Overloading | Core OOP concepts and modular programming |
+| 4. | [Inheritance](https://github.com/PrateekRaj8125/Java-Core-Concepts/tree/main/code/Inheritance) | Inheritance, Overriding | Advanced OOP with real-world class relationships |
+| 5. | [Abstraction-And-Interfaces](https://github.com/PrateekRaj8125/Java-Core-Concepts/tree/main/code/Abstraction-And-Interfaces) | Abstraction, Interfaces | Abstract classes and interface-based design |
+| 6. | [Exception-Handling](https://github.com/PrateekRaj8125/Java-Core-Concepts/tree/main/code/Exception-Handling) | try-catch, Custom Exceptions | Error handling and robust program execution |
+| 7. | [File-Handling](https://github.com/PrateekRaj8125/Java-Core-Concepts/tree/main/code/File-Handling) | File I/O, Streams | Reading, writing, and managing files in Java |
 
 ---
 
@@ -104,7 +104,7 @@ Java-Basics → Command-Line-Programs → Polymorphism → Inheritance → Abstr
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License]().
+This project is open-source and available under the [MIT License](https://github.com/PrateekRaj8125/Java-Core-Concepts/blob/main/LICENSE).
 
 ---
 
